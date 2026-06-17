@@ -5,7 +5,6 @@
 > **🔄 REFACTORED (v2.0):** Project và Task do **con người tạo** qua UI Form. AI chỉ đóng vai trò trợ lý: gợi ý assignment, phân tích rủi ro, theo dõi tiến độ, nhắc nhở. Planner Agent đã bị loại bỏ hoàn toàn.
 
 ---
-# ==================== LangSmith (Debug) ====================
 
 ## 📑 Mục lục
 
